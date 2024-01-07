@@ -56,3 +56,20 @@ This is the list of what your team must create and turn in at the end of the ter
 •	The technical documentation should include a system architecture diagram. You can use Visio or PowerPoint to complete that. The diagram should show all major hardware and software components of your systems, and the connections and relationships between them. Make sure it is clear which software processes (for example a web server or DBMS system) are running on which computers. Show communications as arrows between software processes (for example from web server to middleware software) rather than between computers.
 
 8.	Lessons Learned
+
+
+I. Business Case
+
+This project aims to develop a comprehensive physical to digital library conversion
+system to address the inefficiencies in managing physical records within libraries. The
+system will provide a user-friendly interface for both library customers and
+administrators/librarians, assisting in the transition from traditional, paper-based record
+keeping, to a more streamlined and accessible digital format.
+
+XYZ is a public library that has been serving the community since 2023. The library’s
+main activities and services include book lending from an extensive collection of books,
+digital resources catering to its tech savvy patrons, community engagement through
+children's programs, book clubs, reading workshops and community spaces that provide
+educational support. Revenues primarily come from sources of funding, membership
+fees, and grants. Despite its rich collection of physical resources, the library currently
+faces challenges in terms of organizing and accessing information efficiently.
